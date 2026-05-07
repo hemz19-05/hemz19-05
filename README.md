@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Hemz and welcome to my GitHub Profile!
+## 👋 Hi, I’m Hema and welcome to my GitHub Profile!
 - 🚀 A healthcare-turned-tech explorer learning to code and build.
 - 🌱 Currently learning everything Data Science and AI. 
 - 💞️ I’m currently exploring AI/ML roles and excited to collaborate on projects and internships. If you have any opportunities, feel free to reach out to me!
